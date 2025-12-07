@@ -5,6 +5,7 @@ Turning Sports Ethics into Interactive Digital Learning
 ---
 
 📌 **Project Mission**
+
 Doping doesn’t just break rules — it breaks **health, fairness, and trust** in sport.
 
 This project transforms anti-doping concepts into a **multi-page, interactive learning experience** that helps answer:
@@ -131,6 +132,5 @@ Not just a website — a **digital awareness platform for clean sport**.
 ---
 
 👤 **Author**
-
 **Janhavi Patil**
 Frontend Development | UI/UX | Mission-Driven Web Experiences
