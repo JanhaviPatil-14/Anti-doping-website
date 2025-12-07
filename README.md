@@ -131,5 +131,6 @@ Not just a website — a **digital awareness platform for clean sport**.
 ---
 
 👤 **Author**
+
 **Janhavi Patil**
 Frontend Development | UI/UX | Mission-Driven Web Experiences
